@@ -2,9 +2,9 @@
 <h3 align="center">A electronics undergrad from IIIT Hyderabad</h3>
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=kqwert11 alt=kqwert11/> </p>
 <p align="center">
-<a href=https://linkedin.com/in/astitva-gupta target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="astitva-gupta" height="20" width="20" /></a>
-<a href=https://fb.com/astitva.g.5 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg alt="astitva gupta" height="20" width="20" /></a>
-<a href=https://instagram.com/_alphaculf_ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="_alphaculf_" height="20" width="20" /></a>
+<a href=https://www.linkedin.com/in/kartikagarwal11/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="kartik-agarwal" height="20" width="20" /></a>
+<a href=https://www.facebook.com/kartik.agarwal1111/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg alt="kartik agarwal" height="20" width="20" /></a>
+<a href=https://www.instagram.com/_kartik_agarwal__/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="_kartik_agarwal__" height="20" width="20" /></a>
 </p>
 
 <ul align="center">
