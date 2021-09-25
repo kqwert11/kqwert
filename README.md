@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik Agarwal</h1>
-<h3 align="center">A electronics undergrad from IIIT Hyderabad</h3>
+<h3 align="center">An electronics undergrad from IIIT Hyderabad</h3>
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=kqwert11 alt=kqwert11/> </p>
 <p align="center">
 <a href=https://www.linkedin.com/in/kartikagarwal11/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="kartik-agarwal" height="20" width="20" /></a>
