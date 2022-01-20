@@ -8,8 +8,8 @@
 </p>
 
 <ul align="center">
-  <li> 💬 Ask me about <b>Android, C, C++, Python, JAVA, etc</b></li>
-  <li> 📫 How to reach me <b>kartik.agarwal@students.iiit.ac.in</b></li>
+  💬 Ask me about <b>Android, C, C++, Python, JAVA, etc</b><br />
+  📫 How to reach me <b>kartik.agarwal@students.iiit.ac.in</b>
 </ul>
 <p align="center">
 <img src=https://github-readme-stats.vercel.app/api?username=kqwert11&show_icons=true alt=kqwert11 /> </p>
